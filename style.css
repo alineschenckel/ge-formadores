@@ -5,18 +5,17 @@ p {
 body {
     text-align: center;
     font-size: 20px;
+    background-color: rgb(165, 121, 206);
 }
 
 #titulo {
     font-size: 32px;
     text-align: center;
+    color: pink;
 }
 
 #texto {
     text-align: justify;
-    color: pink font-size: 20px
+    color: rgb(237, 107, 198) font-size: 20px
 }
 
-#fundo {
-    background-color: rgb(165, 121, 206);
-}
