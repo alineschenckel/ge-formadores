@@ -14,5 +14,9 @@ body {
 
 #texto {
     text-align: justify;
-    color: gray font-size: 20px
+    color: pink font-size: 20px
+}
+
+#fundo {
+    background-color: rgb(165, 121, 206);
 }
