@@ -19,3 +19,10 @@ body {
     color: rgb(237, 107, 198) font-size: 20px
 }
 
+
+#banner{
+    width: 80%
+    margin: 24px
+    pedding: 16px
+    
+}
