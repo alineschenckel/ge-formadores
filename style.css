@@ -26,3 +26,7 @@ body {
     pedding: 16px
     
 }
+.titulo-principal{
+    background-image: -o-linear-gradient(#696eff,#f8acff);
+    color: white;
+}
