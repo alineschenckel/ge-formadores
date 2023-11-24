@@ -27,6 +27,6 @@ body {
     
 }
 .titulo-principal{
-    background-image: -o-linear-gradient(#696eff,#f8acff);
+    background-image: linear-gradient(#696eff,#f8acff);
     color: white;
 }
