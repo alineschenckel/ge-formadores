@@ -16,14 +16,15 @@ body {
 
 #texto {
     text-align: justify;
-    color: rgb(237, 107, 198) font-size: 20px
+    color: rgb(237, 107, 198);
+     font-size: 20px
 }
 
 
 #banner{
-    width: 80%
-    margin: 24px
-    pedding: 16px
+    width: 80%;
+    margin: 24px;
+    padding: 16px;
     
 }
 .titulo-principal{
